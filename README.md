@@ -1,9 +1,7 @@
-**Nome-** Lily
-
-**Onde estuda-** Escola
+**Nome-** Livia
 
 **Linguagem de programação favorita-** JavaScript
 
 **Idiomas-** Português, inglês
 
-**E-mail-** Gmail
+**E-mail-** livia.cavalheiro@escola.pr.gov.br
